@@ -1,6 +1,6 @@
 {
-  "name": "@federicomichela/frame-print",
-  "version": "1.0.0",
+  "name": "irith-frame-print",
+  "version": "1.0.2",
   "description": "print a string into a customisable frame",
   "main": "index.js",
   "scripts": {
