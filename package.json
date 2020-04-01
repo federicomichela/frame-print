@@ -1,11 +1,16 @@
 {
   "name": "irith-frame-print",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "print a string into a customisable frame",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federicomichela/frame-print"
+  },
+  "homepage": "https://github.com/federicomichela/frame-print#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michela Federico",
+  "author": "Michela Federico <federico.michela@gmail.com> michelafederico.co.uk/portfolio",
   "license": "ISC"
 }
