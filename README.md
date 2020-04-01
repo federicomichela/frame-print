@@ -10,8 +10,8 @@ _advancedFramePrint_
 
 ## Usage
 ```javascript
-const framePrint = require('advanced-frame-print');
-const framedString = framePrint.advancedFramePrint(
+const framePrintUtil = require('frame-print');
+const framedString = framePrintUtil.framePrint(
     'Michela',          // string to frame
     {
         frameSize: 30,  // number of total characters per row
